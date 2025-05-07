@@ -31,7 +31,7 @@ const livres = [
     },
     {
       id: 6,
-      chemin: "/livres/enjeu/index.html",
+      chemin: "/livres/Publications/Les-enjeux-de-l-entrepreunariat-en-Afrique/index.html",
       motDePasse: "Srn@Entreup%25",
       titre: "Les enjeux de l’entreprenariat en Afrique : cas du Gabon",
     }
